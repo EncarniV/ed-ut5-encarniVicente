@@ -1,8 +1,10 @@
 package proyecto;
 
-public class principal {
+public class Hola {
     //verificamos que se haya creado correctamente el repositorio
+
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
+
+        System.out.println("Hola CmarperX");
     }
 }
